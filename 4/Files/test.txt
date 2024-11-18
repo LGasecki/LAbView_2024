@@ -1,0 +1,7 @@
+£ukasz Age: 21
+Z1	Endurance	100 - 129	10%
+Z2	Moderate	129 - 159	63%
+Z3	Tempo	159 - 169	26%
+Z4	Threshold	169 - 183	0%
+Z5	Anaerobic	183 - 199	0%
+
